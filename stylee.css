@@ -1,0 +1,14 @@
+/* Color Theme Swatches in Hex */
+/* 
+.principal { color: #D97E96; }
+.backgound { color: #8C5679; }
+.destaque { color: #302E59; }
+.ETERNAL-4-hex { color: #202140; }
+.ETERNAL-5-hex { color: #F29B9B; } 
+*/
+html {
+    background: #8C5679;
+    color: #D97E96;
+}
+
+
